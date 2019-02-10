@@ -4,10 +4,14 @@
  */
 package designchallenge1;
 
+
 /**
  *
- * @author Arturo III
+ * @author fredd
+ * Christian Alcala & Joshua Nicholas
+ * People who do codes wrong
  */
+
 public class DesignChallenge1 {
 
     /**
@@ -23,3 +27,4 @@ public class DesignChallenge1 {
         cp.run();
     }
 }
+
